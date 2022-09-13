@@ -1,0 +1,24 @@
+.container-fluid {
+  height: 100vh;
+  background-image: url(images/homepage-picture.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome {
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+}
+.welcome h1 {
+  color: rgb(255, 126, 6);
+  font-size: 50px;
+  letter-spacing: 4px;
+  font-weight: bolder;
+}
+
+.welcome p {
+  color: rgb(255, 20, 158);
+  font-weight: bolder;
+  font-size: 30px;
+}
